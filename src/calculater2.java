@@ -18,6 +18,7 @@ public class calculater2 {
         calculater2.subtraction(50,60);
         add(60,20);
         calculater2.subtraction(90,60);
+         System.out.println("mitesh");
     }
 }
 
